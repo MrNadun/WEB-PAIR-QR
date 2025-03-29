@@ -40,5 +40,5 @@ jobs:
           project: "mrnadun-web-pair-qr-67"
           entrypoint: "No"
           root: "./"
-          include: index.js
-          exclude: system.js
+          
+          
